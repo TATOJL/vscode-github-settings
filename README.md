@@ -12,4 +12,5 @@
 <h2>輸入github信箱與帳號</h2>
 <div>啟動vscode的終端機(按ctrl+` 或ctrl+shift+`)輸入:<div>
 git config --global user.name "帳號"
+<br>
 git config --global user.email "信箱"
