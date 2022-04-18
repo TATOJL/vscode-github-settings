@@ -2,7 +2,6 @@
 ## 安裝git ##
 
 <a href="https://git-scm.com">git下載連結</a>
-<a href="https://git-scm.com">git下載連結</a>
 <h2>檢查git版本，開啟終端機輸入:</h2>
 <div class="gray">git --version</div>
 <h2>登入/註冊github</h2>
