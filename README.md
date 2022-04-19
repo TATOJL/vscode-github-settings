@@ -6,8 +6,8 @@
 檢查git版本，開啟終端機輸入:
 --------------- 
 
-$git --version$
-
+  $ git clone git@github.com:zachwill/flask_heroku.git
+  $ cd flask_heroku
 
 ## 登入/註冊github ##
 [github連結](https://github.com)  
