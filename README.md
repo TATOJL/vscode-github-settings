@@ -10,7 +10,8 @@ __git --version__
 ![copy](TATOJL_repository_copy.png)  
 ## 下載vscode後，啟動vscode ##
 [vscode下載連結](https://code.visualstudio.com)  
-按f1輸入 __git clone__  
+按f1輸入 __git clone__
+![](vscode-f1.png)  
 貼上github Repository的連結到vsocde   
 ![gitclone](vscode-gitclone.png)  
 選擇要存放的資料夾  
