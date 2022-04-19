@@ -27,7 +27,7 @@
 啟動vscode的終端機(ctrl+shift+`)輸入:  
 ```shell
 
- $ __git config --global user.name "帳號"__    
- $ __git config --global user.email "信箱"__
- 
+ $ git config --global user.name "帳號"    
+ $ git config --global user.email "信箱"
+
 ```
