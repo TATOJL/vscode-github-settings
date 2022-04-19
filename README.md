@@ -7,6 +7,7 @@
 --------------- 
 
 $ git --version 
+$
 
 ## 登入/註冊github ##
 [github連結](https://github.com)  
