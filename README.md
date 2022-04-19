@@ -6,7 +6,7 @@
 檢查git版本，開啟終端機輸入:
 --------------- 
 
-$ git --version 
+$  git --version 
 $
 
 ## 登入/註冊github ##
