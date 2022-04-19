@@ -3,7 +3,9 @@
 ## 安裝git ##
 [git下載連結](https://git-scm.com)
 ## 檢查git版本，開啟終端機輸入: ##
-__git --version__  
+
+$ git --version 
+
 ## 登入/註冊github ##
 [github連結](https://github.com)  
 新增或開啟一個Repository，並複製Repository的連結
