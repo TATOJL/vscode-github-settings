@@ -1,17 +1,17 @@
 # vscode-github-settings #
 
-<h2>安裝git<h2>
-<a href="https://git-scm.com">git下載連結</a>
-<h2>檢查git版本，開啟終端機輸入:</h2>
-<strong>git --version</strong>
-<h2>登入/註冊github</h2>
-<a href="https://github.com">github連結</a>
-<h2>下載vscode後，啟動vscode</h2>
-<a href="https://code.visualstudio.com">vscode下載連結</a>
-<div>按f1輸入 <strong>git clone</strong></div>
-<div>複製github Repository的連結到vsocde</div>
-<h2>輸入github信箱與帳號</h2>
-<div>啟動vscode的終端機(按ctrl+` 或ctrl+shift+`)輸入:<div>
-<strong>git config --global user.name "帳號"</strong>
-<br>
-<strong>git config --global user.email "信箱"</strong>
+## 安裝git ##
+[git下載連結](https://git-scm.com)
+## 檢查git版本，開啟終端機輸入: ##
+__git --version__  
+## 登入/註冊github ##
+[github連結](https://github.com)
+## 下載vscode後，啟動vscode ##
+[vscode下載連結](https://code.visualstudio.com)
+按f1輸入 __git clone__
+複製github Repository的連結到vsocde  
+選擇要存放的資料夾  
+## 輸入github信箱與帳號 ##
+啟動vscode的終端機(ctrl+shift+`)輸入:  
+__git config --global user.name "帳號"__    
+__git config --global user.email "信箱"__
