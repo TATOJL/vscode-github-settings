@@ -11,7 +11,8 @@ __git --version__
 ## 下載vscode後，啟動vscode ##
 [vscode下載連結](https://code.visualstudio.com)  
 按f1輸入 __git clone__  
-貼上github Repository的連結到vsocde  
+貼上github Repository的連結到vsocde   
+![gitclone](vscode-gitclone.png)  
 選擇要存放的資料夾  
 ## 輸入github信箱與帳號 ##
 啟動vscode的終端機(ctrl+shift+`)輸入:  
