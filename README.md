@@ -8,7 +8,7 @@
 ```shell 
 
   git --version
-  
+
 ```
   
 
@@ -17,7 +17,7 @@
 新增或開啟一個Repository，並複製Repository的連結
 ![copy](TATOJL_repository_copy.png)  
 ## 下載vscode後，啟動vscode ##
-[vscode下載連結](https://code.visualstudio.com)  
+[vscode下載連結](https://code.visualstudio.com)    
 按f1輸入: __git clone__
 ![](vscode-f1.png)  
 貼上github Repository的連結到vsocde   
