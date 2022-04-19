@@ -1,13 +1,18 @@
 # vscode-github-settings #
 
-## 安裝git ##
+安裝git
+--------------- 
 [git下載連結](https://git-scm.com)
 
 檢查git版本，開啟終端機輸入:
 --------------- 
 
-  $ git clone git@github.com:zachwill/flask_heroku.git
-  $ cd flask_heroku
+ $ git --version
+ $ 
+  
+
+------------------
+  
 
 ## 登入/註冊github ##
 [github連結](https://github.com)  
