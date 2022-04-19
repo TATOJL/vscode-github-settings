@@ -6,6 +6,7 @@
 __git --version__  
 ## 登入/註冊github ##
 [github連結](https://github.com)  
+![gura](gura.jpg)  
 新增或開啟一個Repository，並複製Repository的連結
 ## 下載vscode後，啟動vscode ##
 [vscode下載連結](https://code.visualstudio.com)  
