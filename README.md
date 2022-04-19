@@ -7,7 +7,7 @@
 檢查git版本，開啟終端機輸入:
 ```shell 
 
- $ git --version
+  git --version
  
 ```
   
@@ -27,7 +27,7 @@
 啟動vscode的終端機(ctrl+shift+`)輸入:  
 ```shell
 
- $ git config --global user.name "帳號"    
- $ git config --global user.email "信箱"
+ git config --global user.name "帳號"    
+ git config --global user.email "信箱"
 
 ```
